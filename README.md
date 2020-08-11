@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... make my skills better in frontend. But actually I work mainly on [Arte](https://github.com/marcelmos/Arte) the Angular app.
+- 🔭 I’m currently working on ... my skills in frontend. But actually I work mainly on [Arte](https://github.com/marcelmos/Arte) the Angular app.
 - 🌱 I’m currently learning ... Angular
 - 👯 I’m looking to collaborate on ... Any frontend projects
 - 🤔 I’m looking for help with ... Connect backend to Angular projects.
